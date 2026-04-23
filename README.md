@@ -27,3 +27,5 @@ Then I made a boost randomizer so that it'll have a 1% chance to boost your prog
 Fourthly I sensed that if the button is pressed it'll increase the clicks by 1 and I made sure to write it on the lcd 16x2 screen.
 
 Finally Once you win it'll give you text congratulating you for a few seconds before disappearing to cleanup the raspberry pi and the lcd 16x2's data.
+
+If you would like to see an example of the game there is a video also at the top of the page (though it isn't very high quality)
